@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730691826 source:c:\users\usuario\desktop\estructura de datos\deber 1\multiplicacion de fracciones\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730672904 source:c:\users\usuario\desktop\estructura de datos\deber 1\resta de fracciones\main.cpp
+	<iostream>
+	<limits>
+	<string>
+	<sstream>
+
